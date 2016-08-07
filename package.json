@@ -1,0 +1,31 @@
+{
+  "name": "targus-ng2-grid",
+  "version": "0.0.0",
+  "description": "Data grid table with both server-side and client side filtering and sorting",
+  "author": "Bogdan Shapoval (targus) <it.targus@gmail.com>",
+  "main": "data.grid.component.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdan1975/targus-ng2-grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bogdan1975/targus-ng2-grid/issues"
+  },
+  "keywords": [
+    "angular2",
+    "angular 2",
+    "ng2",
+    "grid",
+    "data grid",
+    "angular2-grid",
+    "angular2-data-grid",
+    "ng2-grid",
+    "ng2-data-grid",
+    "component"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bogdan1975/targus-ng2-grid#readme"
+}
